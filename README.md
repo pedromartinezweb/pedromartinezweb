@@ -121,14 +121,6 @@ Full stack developer and hardware engineer based in Spain, building software sin
 
 <br/>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedromartinezweb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromartinezweb&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="Top Languages" />
-</div>
-
-<br/>
-
 <!-- Footer -->
 <div align="center">
   <sub>Open to collaboration. If you have an interesting technical project, let's talk.</sub>
