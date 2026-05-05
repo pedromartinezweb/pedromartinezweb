@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=200&section=header&text=Pedro%20Luis%20Martinez%20Acebron&fontSize=36&fontColor=e6edf3&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Hardware%20Engineer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f2937&height=200&section=header&text=Pedro%20Luis%20Martinez%20Acebron&fontSize=36&fontColor=e6edf3&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Hardware%20Engineering&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="header" />
 
   <br/>
 
@@ -19,7 +19,7 @@
 <!-- About -->
 ### `> whoami`
 
-Full stack developer and hardware engineer based in Spain, building software since **2016**. I work on end-to-end projects — from discovery to delivery — across **web platforms**, **embedded systems**, and **custom hardware**. I care about clean architecture, maintainable code, and products that just work.
+Full stack developer and hardware engineer based in Spain, building software since **2016**. I design and build end-to-end solutions across **web platforms**, **embedded systems**, **BLE connectivity**, and **custom hardware**. I focus on clean architecture, maintainable code, reliable delivery, and practical products that work in real environments.
 
 <br/>
 
@@ -27,12 +27,12 @@ Full stack developer and hardware engineer based in Spain, building software sin
 ### `> cat services.txt`
 
 ```
- Full stack web application development
- Embedded firmware & BLE connectivity
- PCB design & hardware prototyping
- PLC programming & industrial automation
- Architecture & maintenance of production systems
- Performance, accessibility & technical SEO
+ Full-stack web application development
+ Embedded firmware and BLE connectivity
+ PCB design and hardware prototyping
+ PLC programming and industrial automation
+ Production system architecture and maintenance
+ Performance, accessibility and technical SEO
 ```
 
 <br/>
@@ -43,43 +43,43 @@ Full stack developer and hardware engineer based in Spain, building software sin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/pedromartinezweb/DFU-ESP32-Bluetooth-OTA">DFU-ESP32-Bluetooth-OTA</a></h4>
-      <p><sub>Robust BLE/DFU-based OTA firmware updates for ESP32, supporting seamless wireless updates via BLEUniversal app for macOS and iOS.</sub></p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
+      <h4><a href="https://github.com/pedromartinezweb/DIY_blower_door">DIY_blower_door</a></h4>
+      <p><sub>Open-source blower door firmware for building airtightness testing, built around Raspberry Pi Pico 2 W, FreeRTOS, live telemetry, and OTA updates.</sub></p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/RP2350-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/FreeRTOS-0A66C2?style=flat-square&logo=freertos&logoColor=white" />
     </td>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/pedromartinezweb/DFU-ESP32-Bluetooth-OTA">DFU-ESP32-Bluetooth-OTA</a></h4>
+      <p><sub>BLE/DFU-based OTA firmware update implementation for ESP32, designed for wireless firmware delivery from macOS and iOS clients.</sub></p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/pedromartinezweb/BLEUniversal">BLEUniversal</a></h4>
-      <p><sub>Versatile BLE management app for iOS and macOS built with SwiftUI. Discovery, connection, interaction with peripherals, and OTA firmware support.</sub></p>
+      <p><sub>BLE management app for iOS and macOS built with SwiftUI, supporting peripheral discovery, connection, characteristic interaction, and OTA workflows.</sub></p>
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/pedromartinezweb/opencode-vitamins">opencode-vitamins</a></h4>
+      <p><sub>Reusable OpenCode multi-agent skeleton for planning, implementation, testing, review, and autonomous iteration in software projects.</sub></p>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20Agents-1f2937?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-2496ED?style=flat-square&logo=githubactions&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/pedromartinezweb/PhotoFilm4You">PhotoFilm4You</a></h4>
-      <p><sub>Full e-Commerce platform built with Angular, Java 21 Spring Boot, and Docker.</sub></p>
+      <p><sub>Full e-commerce platform built with Angular, Java 21, Spring Boot, and Docker.</sub></p>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Java%2021-E11D48?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/pedromartinezweb/DIY_blower_door">DIY_blower_door</a></h4>
-      <p><sub>Open-source DIY blower door for building airtightness testing. Hardware + firmware.</sub></p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Hardware-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/pedromartinezweb/ESP32-OTA-Update">ESP32-OTA-Update</a></h4>
-      <p><sub>ESP32 over-the-air update implementation in Python.</sub></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
       <h4><a href="https://github.com/pedromartinezweb/Rust-Learning">Rust-Learning</a></h4>
-      <p><sub>My journey learning Rust — exercises, experiments, and notes.</sub></p>
+      <p><sub>Rust learning workspace with exercises, experiments, notes, and a development container.</sub></p>
       <img src="https://img.shields.io/badge/Rust-F74C00?style=flat-square&logo=rust&logoColor=white" />
     </td>
   </tr>
 </table>
 
-<p align="center"><sub>Pinned repos change over time — check my <a href="https://github.com/pedromartinezweb?tab=repositories">full repository list</a> for more.</sub></p>
+<p align="center"><sub>Pinned repositories change over time. Check my <a href="https://github.com/pedromartinezweb?tab=repositories">full repository list</a> for more.</sub></p>
 
 <br/>
 
@@ -131,7 +131,7 @@ Full stack developer and hardware engineer based in Spain, building software sin
 
 <!-- Footer -->
 <div align="center">
-  <sub>Open to collaboration — if you have an interesting project, let's talk.</sub>
+  <sub>Open to collaboration. If you have an interesting technical project, let's talk.</sub>
   <br/>
   <sub><a href="mailto:developer@pedromartinezweb.com">developer@pedromartinezweb.com</a></sub>
 </div>
