@@ -43,6 +43,26 @@ Full stack developer and hardware engineer based in Spain, building software sin
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/pedromartinezweb/Home-Assistant-Ink-Display-RPI-Pico">Home Assistant Ink Display</a></h4>
+      <p><sub>Configurable, low-power e-paper dashboard for Raspberry Pi Pico W / Pico 2 W. It pairs with Home Assistant and provides visual configuration, entity management, and guided firmware setup.</sub></p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/RP2040-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/pedromartinezweb/swarm-forge-codex">SwarmForge for Codex</a></h4>
+      <p><sub>Self-hosted, tmux-based orchestration for disciplined multi-agent software engineering: role-based workflows, durable handoffs, and isolated Git worktrees.</sub></p>
+      <img src="https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-1f2937?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- More Projects -->
+### `> ls ~/projects --more`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/pedromartinezweb/DIY_blower_door">DIY_blower_door</a></h4>
       <p><sub>Open-source blower door firmware for building airtightness testing, built around Raspberry Pi Pico 2 W, FreeRTOS, live telemetry, and OTA updates.</sub></p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/RP2350-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/FreeRTOS-0A66C2?style=flat-square&logo=freertos&logoColor=white" />
